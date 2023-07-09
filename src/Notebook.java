@@ -23,4 +23,5 @@ public class Notebook extends Product {
     public String getProductType() {
         return productType;
     }
+    
 }
