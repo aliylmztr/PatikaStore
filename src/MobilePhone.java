@@ -43,4 +43,5 @@ public class MobilePhone extends Product {
     public String getProductType() {
         return productType;
     }
+    
 }
